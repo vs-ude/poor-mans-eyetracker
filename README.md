@@ -1,5 +1,5 @@
 # Poor Man's Eyetracker
-This is the overview page for our paper _Revising Poor Man's Eye Tracker For Crowd-Sourced Studies_.
+This is the overview page for our paper [_Revising Poor Man's Eye Tracker For Crowd-Sourced Studies_](https://doi.org/10.1109/PerComWorkshops56833.2023.10150386).
 
 During our work, we developed two tools. One for conducting the crowd-sourced study, and one for visualizing and evaluating its findings.
 You can find the source code for both tools in the following repositories:
